@@ -5,10 +5,11 @@
     <artifactId>proj3</artifactId>
     <version>1.0-RAMA</version>
     <packaging>pom</packaging>
-    <name>Project Build</name>
+    <name>Project Build</name>    
     <modules>
         <module>project</module>
     </modules>
+    
     <properties>
         <maven.compiler.source>1.6</maven.compiler.source>
         <maven.compiler.target>1.6</maven.compiler.target>
